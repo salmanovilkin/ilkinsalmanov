@@ -3,6 +3,13 @@
 
 💻 QA Automation Engineer | Java & Selenium | Enthusiastic Learner  
 
+### 🚀 About Me
+- 🔭 I’m currently working on **QA Automation projects**  
+- 🌱 I’m learning **Java, Selenium, API Testing (RestAssured), and Appium**  
+- ⚔️ Passionate about **History** (Roman legions & Medieval knights 🛡️)  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ilkinsalmanov)**  
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o5ZHg4ZWZtaHczbnhnM2h1NzdreW40Zjh0cjZyYnZscGdidTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMcpNJB/giphy.gif" alt="coding" width="45%"/>
   <img src="https://media.giphy.com/media/Qp45SP1P3PbbO/giphy.gif" alt="hacker" width="45%"/>
