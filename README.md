@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **QA Automation projects**  
-- 🌱 I’m learning **Java, Selenium, API Testing (RestAssured), and Cypress/Playwright**  
+- 🌱 I’m learning **Java, Selenium, API Testing (RestAssured), and Appium**  
 - ⚔️ Passionate about **History** (Roman legions & Medieval knights 🛡️)  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ilkinsalmanov)**  
 
