@@ -3,13 +3,15 @@
 
 💻 QA Automation Engineer | Java & Selenium | Enthusiastic Learner  
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanovilkin&theme=dark&hide_border=true" alt="salmanovilkin_streak" width="1000"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o5ZHg4ZWZtaHczbnhnM2h1NzdreW40Zjh0cjZyYnZscGdidTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMcpNJB/giphy.gif" alt="coding" width="600"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o5ZHg4ZWZtaHczbnhnM2h1NzdreW40Zjh0cjZyYnZscGdidTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMcpNJB/giphy.gif" alt="coding" width="45%"/>
+  <img src="https://media.giphy.com/media/Qp45SP1P3PbbO/giphy.gif" alt="hacker" width="45%"/>
+</div>
 </p>
-<<h3 align="center">My Tech Stack & Tools:</h3>
+<h3 align="center">My Tech Stack & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=        java,selenium,maven,git,github,postman,idea,swift,xcode,testng" />
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,idea,swift,xcode,testng&perline=5" />
   </a>
 </p>
 ---
