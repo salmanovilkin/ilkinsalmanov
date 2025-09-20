@@ -3,7 +3,13 @@
 
 💻 QA Automation Engineer | Java & Selenium | Enthusiastic Learner  
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanovilkin&theme=dark&hide_border=true" alt="salmanovilkin_streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanovilkin&theme=dark&hide_border=true" alt="salmanovilkin_streak" />
+<h3 align="left">My Tech Stack & Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,appium,idea,linux,docker" />
+  </a>
+</p>
 
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o5ZHg4ZWZtaHczbnhnM2h1NzdreW40Zjh0cjZyYnZscGdidTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMcpNJB/giphy.gif" alt="coding" width="400"/>
