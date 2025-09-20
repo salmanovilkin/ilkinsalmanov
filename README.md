@@ -9,7 +9,7 @@
 <h3 align="center">My Tech Stack & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,appium,idea,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,idea,junit,testng,xcode,swift" />
   </a>
 </p>
 ---
@@ -18,42 +18,6 @@
 - 🌱 I’m learning **Java, Selenium, API Testing (RestAssured), and Appium**  
 - ⚔️ Passionate about **History** (Roman legions & Medieval knights 🛡️)  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ilkinsalmanov)**  
----
-
-### 🛠️ Languages & Tools
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="appium" width="40" height="40"/>
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit5" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="swagger" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
-</p>
 ---
 
 ### 📊 GitHub Stats
