@@ -13,19 +13,12 @@
     <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,appium,idea,linux,docker" />
   </a>
 </p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o5ZHg4ZWZtaHczbnhnM2h1NzdreW40Zjh0cjZyYnZscGdidTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMcpNJB/giphy.gif" alt="coding" width="400"/>
-</p>
-
 ---
-
 ### 🚀 About Me
 - 🔭 I’m currently working on **QA Automation projects**  
 - 🌱 I’m learning **Java, Selenium, API Testing (RestAssured), and Appium**  
 - ⚔️ Passionate about **History** (Roman legions & Medieval knights 🛡️)  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ilkinsalmanov)**  
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -35,6 +28,8 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=appium&logoColor=white"/> 
+
 </p>
 
 ---
