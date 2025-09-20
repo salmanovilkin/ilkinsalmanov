@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **QA Automation projects**  
 - 🌱 I’m learning **Java, Selenium, API Testing (RestAssured), and Appium**  
 - ⚔️ Passionate about **History** (Roman legions & Medieval knights 🛡️)  
-- 📫 How to reach me: **[LinkedIn]([https://www.linkedin.com/in/ilkinsalmanov](https://www.linkedin.com/in/ilkin-salmanov-860352296/))**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ilkin-salmanov-860352296/)**  
 
 ---
 
@@ -63,7 +63,7 @@
 ---
 
 ### 🌐 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ilkinsalmanov](https://www.linkedin.com/in/ilkin-salmanov-860352296/))  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilkin-salmanov-860352296/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
