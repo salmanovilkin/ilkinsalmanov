@@ -11,7 +11,7 @@
 <h3 align="center">My Tech Stack & Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,idea,swift,xcode,testng&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,postman,idea,swift,html,css&perline=5" />
   </a>
 </p>
 ---
